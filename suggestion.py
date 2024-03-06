@@ -17,7 +17,7 @@ from difflib import SequenceMatcher
 from colorama import Fore, Back, Style
 
 def algo(problem):
-        df= pd.read_excel(r"https://vscocorp.sharepoint.com/:x:/r/teams/MATIssuesHelpDesk/Shared%20Documents/Comments2.xlsx?d=w48c47ec102034471bd3578f850832cd2&csf=1&web=1&e=m0mu77/Comments2.xlsx",'main')
+        df= pd.read_excel(r"https://vscocorp.sharepoint.com/:x:/r/teams/MATIssuesHelpDesk/Shared%20Documents/Comments2.xlsx?d=w48c47ec102034471bd3578f850832cd2&csf=1&web=1&e=m0mu77",'main')
     #df = pd.DataFrame(df)
     #response = input("Comment: ")
     #problem = "Your problem description"
